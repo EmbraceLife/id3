@@ -54,6 +54,16 @@ combination: [bl.ocks](http://blockbuilder.org/about) and [tonic](https://tonicd
 ### How to understand Regular Expression?
 paste and hover the regx pattern on [RegExr](http://regexr.com/)
 
+
+
+-------------------
+### Learn HTML and CSS basics
+[12 min video on CSS](https://www.youtube.com/watch?v=0afZj1G0BIE)    
+[12 min video on HTML](https://www.youtube.com/watch?annotation_id=annotation_1297474487&feature=iv&src_vid=bWPMSSsVdPk&v=KJ13lX20FqU)    
+margin, padding, border    
+ [video1](https://www.youtube.com/watch?v=qhiQGPtD1PQ)    
+ [video2](https://www.youtube.com/watch?v=7sfft8InTPw)
+
 -------------------
 ### List of my study examples and codes?
 
@@ -62,3 +72,11 @@ paste and hover the regx pattern on [RegExr](http://regexr.com/)
     1. How to find the above: search `EmbraceLife` [here](http://blockbuilder.org/search#user=EmbraceLife)
     2. [example src](https://gist.github.com/EmbraceLife/299f95496c6bddd88d5ddedf9a834c4c)
     3. [d3.selection.enter](https://tonicdev.com/rstrategyexplorer/578794754f7ba6120069abff)
+    4. when `blockbuilder` is difficult to save, then save it in gist.
+
+2. [barChart2 demo]():
+    1.
+    2. [d3.max](https://tonicdev.com/rstrategyexplorer/578ab15d3e25711400d0490d)
+    3. [d3.selection.attr](https://tonicdev.com/rstrategyexplorer/578abe583a9f9b13009e4bb9): ? the last example
+    4.[d3.selection.datum](https://tonicdev.com/rstrategyexplorer/578ac80d3a9f9b13009e4dc8)
+    5. 

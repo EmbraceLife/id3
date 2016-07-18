@@ -64,6 +64,16 @@ margin, padding, border
  [video1](https://www.youtube.com/watch?v=qhiQGPtD1PQ)    
  [video2](https://www.youtube.com/watch?v=7sfft8InTPw)
 
+### libraries to Learn:
+1. React
+2. React Native:
+    1. [intro](https://www.youtube.com/watch?v=tJzZRhNs00I)
+    2. [example]()
+
+
+
+
+
 -------------------
 ### List of my study examples and codes?
 
@@ -74,9 +84,14 @@ margin, padding, border
     3. [d3.selection.enter](https://tonicdev.com/rstrategyexplorer/578794754f7ba6120069abff)
     4. when `blockbuilder` is difficult to save, then save it in gist.
 
-2. [barChart2 demo]():
-    1.
+2. [barChart2 demo](https://bl.ocks.org/mbostock/7341714)
+    1. [manipulation](http://blockbuilder.org/EmbraceLife/9245dc644a9cdf8b02f7a93339fa4c75)
     2. [d3.max](https://tonicdev.com/rstrategyexplorer/578ab15d3e25711400d0490d)
-    3. [d3.selection.attr](https://tonicdev.com/rstrategyexplorer/578abe583a9f9b13009e4bb9): ? the last example
-    4.[d3.selection.datum](https://tonicdev.com/rstrategyexplorer/578ac80d3a9f9b13009e4dc8)
-    5. 
+    3. [d3.selection.attr](https://tonicdev.com/rstrategyexplorer/578abe583a9f9b13009e4bb9)
+    4. [d3.selection.datum](https://tonicdev.com/rstrategyexplorer/578ac80d3a9f9b13009e4dc8)   
+    5. [d3.selection.data](https://tonicdev.com/rstrategyexplorer/578adfd798ae16120061983b)
+    6. question1: use of x, y, dy:em?
+
+3. [barChart3.a demon](https://bl.ocks.org/mbostock/7452541):
+    1. [manipulation](http://blockbuilder.org/EmbraceLife/ea98cae3b044803598b3b54fbb969abc)
+    2. 

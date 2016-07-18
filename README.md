@@ -94,4 +94,5 @@ margin, padding, border
 
 3. [barChart3.a demon](https://bl.ocks.org/mbostock/7452541):
     1. [manipulation](http://blockbuilder.org/EmbraceLife/ea98cae3b044803598b3b54fbb969abc)
-    2. 
+
+4. [barChart3.b.v3 demon](http://blockbuilder.org/EmbraceLife/96743288660fce0d41d253e3d5ee4521)

@@ -1,6 +1,9 @@
 # id3
 my learning path's questions and answers collected
 
+### Goal of 2016
+1. using R2D3 style to demo on all Kaggle datasets
+
 ### How to preview `.md` file on Atom?
 `ctrl` + `shift` + `m`
 
@@ -96,3 +99,4 @@ margin, padding, border
     1. [manipulation](http://blockbuilder.org/EmbraceLife/ea98cae3b044803598b3b54fbb969abc)
 
 4. [barChart3.b.v3 demon](http://blockbuilder.org/EmbraceLife/96743288660fce0d41d253e3d5ee4521)
+    1. [d3.scaleOrdinal.test](https://tonicdev.com/rstrategyexplorer/578c8b0866861a14000e4f5a)

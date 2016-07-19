@@ -1,11 +1,21 @@
 # id3
 my learning path's questions and answers collected
 
+-------------------
+
 ### Goal of 2016
 1. using R2D3 style to demo on all Kaggle datasets
+2. create a useful stock app using d3 for myself
+
+-------------------
 
 ### How to preview `.md` file on Atom?
 `ctrl` + `shift` + `m`
+
+-------------------
+
+### How to download a single folder from a repo instead of the whole repo?
+`svn checkout https://github.com/userName/RepoName/trunk/folderName`
 
 
 -------------------
@@ -95,8 +105,13 @@ margin, padding, border
     5. [d3.selection.data](https://tonicdev.com/rstrategyexplorer/578adfd798ae16120061983b)
     6. question1: use of x, y, dy:em?
 
-3. [barChart3.a demon](https://bl.ocks.org/mbostock/7452541):
+3. [barChart3.a demon in v3](https://bl.ocks.org/mbostock/7452541):
     1. [manipulation](http://blockbuilder.org/EmbraceLife/ea98cae3b044803598b3b54fbb969abc)
 
-4. [barChart3.b.v3 demon](http://blockbuilder.org/EmbraceLife/96743288660fce0d41d253e3d5ee4521)
-    1. [d3.scaleOrdinal.test](https://tonicdev.com/rstrategyexplorer/578c8b0866861a14000e4f5a)
+4. [barChart3.b demo in v3](http://blockbuilder.org/EmbraceLife/96743288660fce0d41d253e3d5ee4521)
+    1. [manipulation](http://blockbuilder.org/EmbraceLife/677054c8f535c77ddd95485523d97fcd)
+    2.  [d3.scaleOrdinal.test](https://tonicdev.com/rstrategyexplorer/578c8b0866861a14000e4f5a)
+    3. [d3.scaleBand.test](https://tonicdev.com/rstrategyexplorer/578cd99cebde48130007d32d)
+
+5. [barChart3.c demo in v3](http://blockbuilder.org/EmbraceLife/fe0526cedbadbf1b434f9ddaf6a3b5b0)
+    1. [manipulation]()

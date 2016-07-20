@@ -88,7 +88,7 @@ margin, padding, border
 
 
 -------------------
-### List of my study examples and codes?
+### barChart examples
 
 1. [barChart1 demo](http://bl.ocks.org/EmbraceLife/299f95496c6bddd88d5ddedf9a834c4c):
     1. [example for  manipulation](http://blockbuilder.org/EmbraceLife/299f95496c6bddd88d5ddedf9a834c4c): read with `cmd + option + i`
@@ -114,4 +114,20 @@ margin, padding, border
     3. [d3.scaleBand.test](https://tonicdev.com/rstrategyexplorer/578cd99cebde48130007d32d)
 
 5. [barChart3.c demo in v3](http://blockbuilder.org/EmbraceLife/fe0526cedbadbf1b434f9ddaf6a3b5b0)
-    1. [manipulation]()
+    1. [manipulation](http://blockbuilder.org/EmbraceLife/645e9387c123986ea5cd290511b45562)
+    2. [d3.axis.test](https://tonicdev.com/rstrategyexplorer/578e31b37fcd461300b5f894)
+
+6. [barChart3.d demo in v3]()
+    1. [manipulation](http://blockbuilder.org/EmbraceLife/460382bece9c49c11e6b91fa64cb2a9a)
+
+### What is learnt on the above 6 barChart examples?
+1. bind data
+2. create svg rect for bars
+3. create x-axis, y-axis
+4. hover to change bar color
+5. scaleBand to map bar width on canvas
+6. scaleLinear to map bar height on canvas
+-------------------
+
+
+### Histogram Examples

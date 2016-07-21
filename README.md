@@ -4,9 +4,9 @@ my learning path's questions and answers collected
 -------------------
 
 ### Goal of 2016
-1. using R2D3 style to demo on all Kaggle datasets
-2. create a useful stock app using d3 for myself
-
+1. d3 examples from beginner to advanced
+2. node.js, React.js, React Native
+3. understand d3 source code inside out
 -------------------
 
 ### How to preview `.md` file on Atom?
@@ -130,4 +130,19 @@ margin, padding, border
 -------------------
 
 
-### Histogram Examples
+### Histogram [Example1](http://blockbuilder.org/EmbraceLife/46746758004aa5535da4cb32616f9307)
+1. [d3.random md](https://github.com/d3/d3-random)
+1. d3.randomBates: read src `bates.js` and `irwinHall.js`
+2. [d3.format md](https://github.com/d3/d3-format)
+2. [How to round to specific decimal points?](https://tonicdev.com/rstrategyexplorer/5790207e59017413003e4729)
+3. [How to check inside a format specifier?](https://tonicdev.com/rstrategyexplorer/579028b4a7fc6613006b744e)
+3. [How to create a histogram frame](https://tonicdev.com/rstrategyexplorer/57903d207bc70812004f99a6)
+
+### Histogram [example2](http://blockbuilder.org/EmbraceLife/eed2f62f855854739ddf5e572d4322ed)
+1. d3-time-format [md](https://github.com/d3/d3-time-format)
+
+------------
+
+### Line transition
+1. d3.randomNormal [how to use](https://tonicdev.com/rstrategyexplorer/5790d4ef54df4e1300f9e006)
+2. 

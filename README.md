@@ -103,7 +103,8 @@ margin, padding, border
     3. [d3.selection.attr](https://tonicdev.com/rstrategyexplorer/578abe583a9f9b13009e4bb9)
     4. [d3.selection.datum](https://tonicdev.com/rstrategyexplorer/578ac80d3a9f9b13009e4dc8)   
     5. [d3.selection.data](https://tonicdev.com/rstrategyexplorer/578adfd798ae16120061983b)
-    6. question1: use of x, y, dy:em?
+    6. question1: use of x, y, dy:em?  
+    7. [d3.tsvParse](https://tonicdev.com/rstrategyexplorer/57945713b1dbe21300773f5f#), d3.tsvParse [md](https://github.com/d3/d3-dsv#dsvFormat)
 
 3. [barChart3.a demon in v3](https://bl.ocks.org/mbostock/7452541):
     1. [manipulation](http://blockbuilder.org/EmbraceLife/ea98cae3b044803598b3b54fbb969abc)
@@ -143,6 +144,20 @@ margin, padding, border
 
 ------------
 
+
+### General Update Pattern
+#### [Example1](http://blockbuilder.org/EmbraceLife/efb531e68ce46c51cb1df2ca360348bb)
+1. join data by index (read md file)
+
+#### [Example2](http://blockbuilder.org/EmbraceLife/d6e2c44f9c525849c4a06bfe1c5f5def)
+1. join data by [key function](https://bost.ocks.org/mike/selection/)
+
+> Joining by index is convenient if your data and elements are in the same order. However, when orders differ, joining by index is insufficient! In this case, you can specify a key function as the second argument to selection.data. The key function returns the key for a given datum or element. For example, if your data is an array of objects, each with a name property, your key function can return the associated name:
+
+#### [Example3](http://blockbuilder.org/EmbraceLife/6f4d365ee09432f0aaf1d0cb6ef89dd6)
+1. transitions
+
 ### Line transition
 1. d3.randomNormal [how to use](https://tonicdev.com/rstrategyexplorer/5790d4ef54df4e1300f9e006)
-2. 
+2. d3.shape [md](https://github.com/d3/d3-shape)
+3. d3.line [how to use]()

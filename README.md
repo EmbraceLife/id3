@@ -5,7 +5,6 @@ my learning path's questions and answers collected
 
 ### Goal of 2016
 1. d3 examples from beginner to advanced
-2. node.js, React.js, React Native
 3. understand d3 source code inside out
 -------------------
 
@@ -77,28 +76,33 @@ margin, padding, border
  [video1](https://www.youtube.com/watch?v=qhiQGPtD1PQ)    
  [video2](https://www.youtube.com/watch?v=7sfft8InTPw)
 
-### libraries to Learn:
+### libraries to Learn in the future:
 1. React
 2. React Native:
     1. [intro](https://www.youtube.com/watch?v=tJzZRhNs00I)
     2. [example]()
 
 
+-------------------
+### Learning Steps
 
-
+1. [horizontal barChart](http://blockbuilder.org/EmbraceLife/9245dc644a9cdf8b02f7a93339fa4c75)
+2. [vertical barChart](http://blockbuilder.org/EmbraceLife/ea98cae3b044803598b3b54fbb969abc)
+3. [scaleBand barChart](http://blockbuilder.org/EmbraceLife/677054c8f535c77ddd95485523d97fcd)
+4. [x-y-axis barChart](http://blockbuilder.org/EmbraceLife/645e9387c123986ea5cd290511b45562)
+5. [hover barChart](http://blockbuilder.org/EmbraceLife/460382bece9c49c11e6b91fa64cb2a9a)
 
 -------------------
 ### barChart examples
 
-1. [barChart1 demo](http://bl.ocks.org/EmbraceLife/299f95496c6bddd88d5ddedf9a834c4c):
-    1. [example for  manipulation](http://blockbuilder.org/EmbraceLife/299f95496c6bddd88d5ddedf9a834c4c): read with `cmd + option + i`
+1. [horizontal barChart demo](http://bl.ocks.org/EmbraceLife/299f95496c6bddd88d5ddedf9a834c4c):
+    1. [anatomy](http://blockbuilder.org/EmbraceLife/9245dc644a9cdf8b02f7a93339fa4c75): read with `cmd + option + i`
     1. How to find the above: search `EmbraceLife` [here](http://blockbuilder.org/search#user=EmbraceLife)
-    2. [example src](https://gist.github.com/EmbraceLife/299f95496c6bddd88d5ddedf9a834c4c)
     3. [d3.selection.enter](https://tonicdev.com/rstrategyexplorer/578794754f7ba6120069abff)
     4. when `blockbuilder` is difficult to save, then save it in gist.
 
-2. [barChart2 demo](https://bl.ocks.org/mbostock/7341714)
-    1. [manipulation](http://blockbuilder.org/EmbraceLife/9245dc644a9cdf8b02f7a93339fa4c75)
+2. [horizontal barChart](https://bl.ocks.org/mbostock/7341714)
+    1. [anatomy](http://blockbuilder.org/EmbraceLife/9245dc644a9cdf8b02f7a93339fa4c75)
     2. [d3.max](https://tonicdev.com/rstrategyexplorer/578ab15d3e25711400d0490d)
     3. [d3.selection.attr](https://tonicdev.com/rstrategyexplorer/578abe583a9f9b13009e4bb9)
     4. [d3.selection.datum](https://tonicdev.com/rstrategyexplorer/578ac80d3a9f9b13009e4dc8)   

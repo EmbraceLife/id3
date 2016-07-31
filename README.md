@@ -4,8 +4,8 @@ my learning path's questions and answers collected
 -------------------
 
 ### Goal of 2016
-1. d3 examples from beginner to advanced
-3. understand d3 source code inside out
+1. all examples on blockbuilder.org and scott Murray's book
+3. learn advanced examples by getting help from advanced friendly bloggers
 -------------------
 
 ### How to preview `.md` file on Atom?
